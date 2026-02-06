@@ -10,14 +10,20 @@ In addition, the project analyzes failed transaction reasons like server errors,
 
 Key Insights
 
-Overall transaction volume and total transaction amount
-Monthly transaction amount trends
-Service wise contribution to total amount
-Successful vs failed transaction comparison
-Detailed analysis of failed payment reasons
+Overall transaction volume and total transaction amount.
+
+Monthly transaction amount trends.
+
+Service wise contribution to total amount.
+
+Successful vs failed transaction comparison.
+
+Detailed analysis of failed payment reasons.
 
 Tools Used
-Power BI (Dashboard creation and visualization)
+
+Power BI (Dashboard creation and visualization),
+
 SQL and Excel (Data cleaning and preparation)
 
 This project demonstrates my ability to analyze transactional data, create meaningful visualizations, and extract business insights from real-world fintech data.
