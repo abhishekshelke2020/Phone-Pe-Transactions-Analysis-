@@ -8,7 +8,7 @@ The dashboard provides a clear view of total transactions, successful and failed
 
 In addition, the project analyzes failed transaction reasons like server errors, wrong PIN, insufficient balance, incorrect information, and bank denials. This helps highlight common issues affecting transaction success and areas for improvement.
 
-Key Insights
+* Key Insights
 
 Overall transaction volume and total transaction amount.
 
